@@ -1,4 +1,4 @@
-> **Retired.** This repository is no longer maintained. ReplyNodes is now the read-only web context API for AI agents — see https://replynodes.com/ and the MCP server at https://github.com/replynodes/replynodes-mcp.
+> **Retired.** This repository is no longer maintained. ReplyNodes is the read-only web context API for AI agents: search, scrape and read public web, social and app data through one REST API or remote MCP server. Current product: https://replynodes.com/ and https://github.com/replynodes/replynodes-mcp.
 # ReplyNodes OpenClaw x402 (retired)
 
 This repository is retained for historical reference only. The x402 payment plugin and its accountless payment positioning are retired and are not part of the current ReplyNodes product.
